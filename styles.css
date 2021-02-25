@@ -1,0 +1,46 @@
+body{
+    background-color: black;
+}
+
+#container{
+    background-color: white;
+    display: block;
+    justify-content: center;
+    width: 35%;
+    margin: auto;  
+    border: solid gray;
+}
+img{
+    height: 300px;
+    width: 300;
+}
+.texto{
+    text-align: left;
+    margin: auto;
+}
+.cuerpo{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.titulo{
+    margin-top: 5px;
+    justify-content: space-between;
+    display: flex;
+    margin-right: 10px;
+    padding: 20px;
+}
+.likes{
+    display: flex;
+    padding-right: 20px;
+    padding-left: 9px;
+    justify-content: space-between;
+}
+.derecha{
+    justify-content: right;
+    text-align: right;
+    width: 70%;
+}
+.izquierda{
+   margin-top: 3px;
+   justify-content: space-between;  
+}
